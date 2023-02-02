@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body */
+/* nav */
+nav{
+    background-image: ;
+}
+/* parallax */
+.parallax {
+    background-position: 0 -100px;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 75vh;
+}
+.intro {
+    background-image: url(parallaxbg.jpg);
+    height: auto;
+}
+.arsite {
+    padding-block: 30px;
+}
+.cta {
+    text-align: center ;
+}
+.cta h1{
+    font-size: 3rem;
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+/* card */
+.card-title{
+    color: greenyellow;
+}
+.card-size{
+    padding: 30px;
+}
+/* card selesai */
+/* konten */
